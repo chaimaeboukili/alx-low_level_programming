@@ -1,7 +1,8 @@
 #include<stdio.h>
 /**
  * main - entry point
- * return: 0
+ * Description: print "with proper grammar, but the outcome is a piece of art,"
+ * Return: 0
  */
 int main(void)
 {
